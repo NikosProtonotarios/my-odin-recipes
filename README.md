@@ -1,1 +1,1 @@
-# odin-recipes
+My first website! I made this website just for training reasons
